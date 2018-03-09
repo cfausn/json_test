@@ -3,16 +3,16 @@
   "Instruction_Name": "Example Tasks",
   "Tasks": [
       {
-        "Task": "First task to complete.",
+        "Task_Name": "First task to complete.",
         "Subtasks": [null],
         "Is_Completed": true
       },
     
       {
-        "Task": "Second task to complete.",
+        "Task_Name": "Second task to complete.",
         "Subtasks": [
             {
-              "Subtask": "Test subtask",
+              "Subtask_Name": "Test subtask",
               "Is_Completed": false
             }
           ],
@@ -20,7 +20,7 @@
       },
     
       {
-        "Task": "Final task to complete.",
+        "Task_Name": "Final task to complete.",
         "Subtasks": [null],
         "Is_Completed": false
       }

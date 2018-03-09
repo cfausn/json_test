@@ -1,28 +1,28 @@
 {
-  "instruction_id": 1,
-  "instruction_name": "Example Tasks",
-  "tasks": [
+  "Instruction_ID": 1,
+  "Instruction_Name": "Example Tasks",
+  "Tasks": [
       {
-        "task": "First task to complete.",
-        "subtasks": [null],
-        "is_completed": true
+        "Task": "First task to complete.",
+        "Subtasks": [null],
+        "Is_Completed": true
       },
     
       {
-        "task": "Second task to complete.",
-        "subtasks": [
+        "Task": "Second task to complete.",
+        "Subtasks": [
             {
-              "subtask": "Test subtask",
-              "is_completed": false
+              "Subtask": "Test subtask",
+              "Is_Completed": false
             }
           ],
-        "is_completed": false
+        "Is_Completed": false
       },
     
       {
-        "task": "Final task to complete.",
-        "subtasks": [null],
-        "is_completed": false
+        "Task": "Final task to complete.",
+        "Subtasks": [null],
+        "Is_Completed": false
       }
     ]
 }

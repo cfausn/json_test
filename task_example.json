@@ -2,7 +2,7 @@
   {
     "Instruction_ID": 0,
     "Instruction_Name": "Example Tasks",
-    "Tasks": [
+    "Instruction_Tasks": [
         {
           "Task_Name": "First task to complete.",
           "Subtasks": [null],

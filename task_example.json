@@ -1,0 +1,28 @@
+{
+  "instruction_id": 1,
+  "instruction_name": "Example Tasks",
+  "tasks": [
+      {
+        "task": "First task to complete.",
+        "subtasks": [null],
+        "is_completed": true
+      },
+    
+      {
+        "task": "Second task to complete.",
+        "subtasks": [
+            {
+              "subtask": "Test subtask",
+              "is_completed": false
+            }
+          ],
+        "is_completed": false
+      },
+    
+      {
+        "task": "Final task to complete.",
+        "subtasks": [null],
+        "is_completed": false
+      }
+    ]
+}

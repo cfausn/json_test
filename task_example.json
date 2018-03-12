@@ -1,6 +1,28 @@
 [
   {
     "Instruction_ID": 0,
+    "Instruction_Name": "Compressor Demo",
+    "Instruction_Tasks": [
+        {
+          "Task_Name": "Select Main Tank Resevoir",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
+      
+        {
+          "Task_Name": "Select Handle",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
+      
+        {
+          "Task_Name": "Select Compressing Mechanism",
+          "Subtasks": null,
+          "Is_Completed": false
+        }
+      ]
+  },{
+    "Instruction_ID": 1,
     "Instruction_Name": "Example Tasks",
     "Instruction_Tasks": [
         {
@@ -28,7 +50,7 @@
       ]
   },
   {
-    "Instruction_ID": 1,
+    "Instruction_ID": 2,
     "Instruction_Name": "Second Example Task",
     "Tasks": [
         {

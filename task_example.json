@@ -51,17 +51,7 @@
     "Tasks": [
         {
           "Task_Name": "First task to complete.",
-          "Subtasks": [
-              {
-                "Subtask_Name": "Test subtask",
-                "Is_Completed": false
-              },
-              
-              {
-                "Subtask_Name": "Test subtask",
-                "Is_Completed": false
-              }
-            ],
+          "Subtasks": null,
           "Is_Completed": false
         },
       

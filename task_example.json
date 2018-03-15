@@ -47,7 +47,7 @@
   },
   {
     "Instruction_ID": 2,
-    "Instruction_Name": "Compressor Tester",
+    "Instruction_Name": "Select Compressor Tester",
     "Tasks": [
         {
           "Task_Name": "First task to complete.",

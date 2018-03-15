@@ -46,23 +46,27 @@
       ]
   },{
     "Instruction_ID": 2,
-    "Instruction_Name": "Replace Oil",
+    "Instruction_Name": "Attach Hose",
     "Instruction_Tasks": [
-		{
-          "Task_Name": "Select Main Tank Resevoir",
-          "Subtasks": null,
-          "Is_Completed": false
-        },
-      
-      
         {
-          "Task_Name": "Select Hose",
+          "Task_Name": "Say 'Locate Hose Port'",
           "Subtasks": null,
           "Is_Completed": false
         },
       
         {
-          "Task_Name": "Select Compressing Mechanism",
+          "Task_Name": "Attach Hose to port (when complete say 'Hose Port Attached')",
+          "Subtasks": null,
+          "Is_Completed": false
+        },      
+        {
+          "Task_Name": "Say 'Locate Hose Release '",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
+      
+        {
+          "Task_Name": "Turn Hose Release (when complete say 'Hose Relase Turned')",
           "Subtasks": null,
           "Is_Completed": false
         }

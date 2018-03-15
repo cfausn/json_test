@@ -47,7 +47,7 @@
   },
   {
     "Instruction_ID": 2,
-    "Instruction_Name": "Select Compressor Tester",
+    "Instruction_Name": "Select Compressor Test",
     "Tasks": [
         {
           "Task_Name": "Say 'Locate Resevoir'",

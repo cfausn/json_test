@@ -60,7 +60,7 @@
           "Is_Completed": false
         },      
         {
-          "Task_Name": "Say 'Locate Hose Release '",
+          "Task_Name": "Say 'Locate Hose Release'",
           "Subtasks": null,
           "Is_Completed": false
         },

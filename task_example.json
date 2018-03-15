@@ -1,8 +1,13 @@
 [
   {
     "Instruction_ID": 0,
-    "Instruction_Name": "Compressor Demo",
+    "Instruction_Name": "Compressor Info",
     "Instruction_Tasks": [
+        {
+          "Task_Name": "Say 'Locate Resevoir'",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
         {
           "Task_Name": "Select Main Tank Resevoir",
           "Subtasks": null,
@@ -10,11 +15,21 @@
         },
       
         {
+          "Task_Name": "Say 'Locate Hose'",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
+        {
           "Task_Name": "Select Hose",
           "Subtasks": null,
           "Is_Completed": false
         },
       
+        {
+          "Task_Name": "Say 'Locate Compressor'",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
         {
           "Task_Name": "Select Compressing Mechanism",
           "Subtasks": null,
@@ -23,7 +38,7 @@
       ]
   },{
     "Instruction_ID": 1,
-    "Instruction_Name": "Example Tasks",
+    "Instruction_Name": "Change Oil",
     "Instruction_Tasks": [
         {
           "Task_Name": "First task to complete.",
@@ -33,12 +48,7 @@
       
         {
           "Task_Name": "Second task to complete.",
-          "Subtasks": [
-              {
-                "Subtask_Name": "Test subtask",
-                "Is_Completed": false
-              }
-            ],
+          "Subtasks":null,
           "Is_Completed": false
         },
       
@@ -51,7 +61,7 @@
   },
   {
     "Instruction_ID": 2,
-    "Instruction_Name": "Second Example Task",
+    "Instruction_Name": "Attach Hose",
     "Tasks": [
         {
           "Task_Name": "First task to complete.",

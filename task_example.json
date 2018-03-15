@@ -44,8 +44,7 @@
           "Is_Completed": false
         }
       ]
-  }
-  /*,
+  },
   {
     "Instruction_ID": 2,
     "Instruction_Name": "Select Compressor Test",

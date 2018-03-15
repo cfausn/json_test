@@ -44,5 +44,28 @@
           "Is_Completed": false
         }
       ]
+  },{
+    "Instruction_ID": 2,
+    "Instruction_Name": "Replace Oil",
+    "Instruction_Tasks": [
+		{
+          "Task_Name": "Select Main Tank Resevoir",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
+      
+      
+        {
+          "Task_Name": "Select Hose",
+          "Subtasks": null,
+          "Is_Completed": false
+        },
+      
+        {
+          "Task_Name": "Select Compressing Mechanism",
+          "Subtasks": null,
+          "Is_Completed": false
+        }
+      ]
   }
 ]
